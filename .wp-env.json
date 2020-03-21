@@ -1,0 +1,11 @@
+{
+  "core": "https://wordpress.org/wordpress-5.4-beta2.zip",
+  "plugins": [
+    "./build/"
+  ],
+  "port": 8888,
+  "testsPort": 1001,
+  "config": {
+    "WP_DEBUG_DISPLAY": true
+  }
+}
